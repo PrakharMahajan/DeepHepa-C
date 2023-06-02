@@ -6,7 +6,7 @@ DeepHepa-C is designed to be accurate, reliable, and easy to use. The applicatio
 With DeepHepa-C, patients can gain a better understanding of their health status and take proactive steps to protect themselves from Hepatitis C. Whether you're a healthcare provider looking to improve patient outcomes or an individual concerned about your Hepatitis C risk, DeepHepa-C is the ideal solution for accurate and personalized risk assessment.
 
 ## Details about all the present files
-### HepatitisCdata.csv
+### [HepatitisCdata.csv](https://github.com/PrakharMahajan/DeepHepa-C/blob/main/HepatitisCdata.csv)
 This is the data file that is used to train the model
 
 ### MLP_model.py
